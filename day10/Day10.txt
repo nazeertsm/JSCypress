@@ -1,0 +1,10 @@
+Install in current project to use fetch API
+
+https://www.npmjs.com/package/node-fetch
+
+Open terminal and use type below commands
+
+npm install node-fetch
+
+hit enter
+
